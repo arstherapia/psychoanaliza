@@ -1,0 +1,32 @@
+.seven_sharp{ border:none;}
+.seven_sharp .seven_bt_preview { top:35px;}
+.seven_sharp .seven_bullet_control{ right:0px !important;bottom:0;}
+.seven_sharp .seven_bullet_control #seven_bullet_viewport{ margin-top:6px;}
+.seven_sharp .seven_bullet_control #seven_bullet_inner_viewport{ display:inline-block;}
+.seven_sharp #left_btn{ width:28px; height:54px;	background-image:url(../../img/skin/sharp.png);left:10px;}
+.seven_sharp #right_btn{ width:28px; height:54px; background-image:url(../../img/skin/sharp.png);right:10px;}
+.seven_sharp .seven_a_play{width:17px;height:17px;background-image:url(../../img/skin/p_sharp.png);}
+.seven_sharp .seven_a_pause{background-position:0% 0%;}
+.seven_sharp .seven_hcarousel{position:absolute;overflow:hidden;width:100%;top:100%;margin-top:20px;}
+.seven_sharp .seven_vcarousel{position:absolute;overflow:hidden;width:80px;height:100%;left:100%;margin-left:10px;}
+.seven_sharp #seven_hviewport{top:0;height:110px;margin:0 auto;}
+.seven_sharp .seven_hcarousel.seven_bullet{ margin-top:40px !important;}
+.seven_sharp .seven_hcarousel.seven_bullet{ margin-top:40px !important;}
+.seven_sharp .seven_hcarousel #seven_hviewport .carousel{border:solid 2px #3f3f3f;}
+.seven_sharp .seven_circle{width:17px;height:17px;background-image:url(../../img/skin/c_sharp.png);}
+.seven_sharp .seven_nav{top:50%;margin-top:-28px;}
+.seven_sharp .seven_caption{position:absolute; font-family:lucida;font-size:20px;filter: alpha(opacity=40);background-color:#000;background-color:rgba(0,0,0,0.6);left:0;bottom: 20px; color: #fff;max-width:50%;}
+.seven_container .seven_caption div{margin:10px 18px;}
+.seven_container .seven_des{font-size:11px;opacity:.75;filter: alpha(opacity=70);-moz-opacity:.75;-khtml-opacity:.75;display:none;}
+/* Default Skin Lightbox*/
+.seven_sharp #seven_sublightbox{position:absolute; background-color:#000; border: 0px; box-shadow: 4px 4px 4px #000000; z-index:200; left:50%; top:50%; -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */	-moz-box-sizing: border-box;    /* Firefox, other Gecko */box-sizing: border-box;         /* Opera/IE 8+ */}
+.seven_sharp .seven_lcontrol{background:url(../../img/skin/l_default.png);position:absolute;width:24px;height:37px;z-index:50;cursor:pointer;}
+.seven_sharp #seven_lightbox_control_prev{left:10px;top:50%;margin-top:-18px;}
+.seven_sharp #seven_lightbox_control_next{right:10px;top:50%;margin-top:-18px;background-position:100% 0%;}
+.seven_sharp #seven_lightbox_control_close{background:url(../../img/skin/default_close.png);position:absolute;width:17px;height:17px;z-index:50;right:0;margin:10px;cursor:pointer;}
+.seven_sharp #seven_thumb_container .seven_thumb{float:left;width:54px;height:59px;background:url(../../img/skin/t_default.png);background-position:100% 0;overflow:hidden;}
+.seven_sharp #seven_thumb_container .seven_thumb:hover,.seven_sharp #seven_thumb_container .seven_thumb.active{background-position:0;}
+.seven_sharp #seven_thumb_container .seven_thumb .seven_subthumb{position:absolute;overflow:hidden;margin:12px 7px;width:40px;height:40px;}
+.seven_sharp #seven_thumb_container .seven_thumb.active .seven_subthumb,.seven_sharp #seven_thumb_container .seven_thumb:hover .seven_subthumb{margin:9px 7px;}
+.seven_sharp #seven_thumb_container .seven_thumb img{width:100px;}
+@font-face { font-family: lucida; src: url('../font/Lucida Grande.ttf'); } 
